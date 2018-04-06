@@ -1,0 +1,3 @@
+$logevent 0x1ff
+$clienthost master
+$restrict_user_maxsysid 999
